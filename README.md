@@ -40,5 +40,5 @@ Model Used: https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF
 ## Update
 In this project, the content has to be provided by the user. A better but a different version of this project can be found here: https://github.com/rajdas2001/News-Analysis-Tool-using-LLM-and-News-API/tree/main. Given a topic, the program can fetch content on its own using News API (https://newsapi.org/).
 
-#May the force be with you!
+# May the force be with you!
 
